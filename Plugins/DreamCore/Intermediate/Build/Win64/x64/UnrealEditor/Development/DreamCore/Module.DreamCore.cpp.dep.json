@@ -1,0 +1,43 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dreamcore\\module.dreamcore.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dreamcore\\definitions.dreamcore.h",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamcore\\uht\\dassetmanager.gen.cpp",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\source\\dreamcore\\public\\dassetmanager.h",
+            "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\source\\runtime\\engine\\classes\\engine\\assetmanager.h",
+            "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\source\\runtime\\engine\\classes\\engine\\assetmanagertypes.h",
+            "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\assetmanagertypes.generated.h",
+            "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\source\\runtime\\coreuobject\\public\\misc\\assetregistryinterface.h",
+            "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\assetregistrymodule.h",
+            "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\iassetregistry.h",
+            "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assetregistry\\uht\\iassetregistry.generated.h",
+            "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\source\\runtime\\core\\public\\genericplatform\\genericplatformchunkinstall.h",
+            "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\source\\runtime\\engine\\classes\\engine\\contentencryptionconfig.h",
+            "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\assetmanager.generated.h",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamcore\\uht\\dassetmanager.generated.h",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamcore\\uht\\dreamcore.init.gen.cpp",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamcore\\uht\\dreamcoreblueprintfunctionlib.gen.cpp",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\source\\dreamcore\\public\\dreamcoreblueprintfunctionlib.h",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\source\\dreamcore\\public\\data\\dreamcoreenum.h",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\source\\dreamcore\\public\\data\\dreamcorestruct.h",
+            "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\source\\runtime\\engine\\classes\\engine\\userdefinedstruct.h",
+            "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\userdefinedstruct.generated.h",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamcore\\uht\\dreamcorestruct.generated.h",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamcore\\uht\\dreamcoreblueprintfunctionlib.generated.h",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamcore\\uht\\dreamcorestruct.gen.cpp",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\source\\dreamcore\\private\\dassetmanager.cpp",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\source\\dreamcore\\private\\data\\dreamcorestruct.cpp",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\source\\dreamcore\\private\\dreamcore.cpp",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\source\\dreamcore\\public\\dreamcore.h",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\source\\dreamcore\\private\\dreamcoreblueprintfunctionlib.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

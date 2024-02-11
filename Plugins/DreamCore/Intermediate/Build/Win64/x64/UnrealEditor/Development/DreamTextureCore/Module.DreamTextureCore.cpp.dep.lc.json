@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\unrealproject\\pluginsbuild_5_3\\plugins\\dreamcore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dreamtexturecore\\module.dreamtexturecore.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "g:\\unrealproject\\pluginsbuild_5_3\\plugins\\dreamcore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dreamtexturecore\\definitions.dreamtexturecore.h",
+            "g:\\unrealproject\\pluginsbuild_5_3\\plugins\\dreamcore\\source\\dreamtexturecore\\private\\bluedreamtexture.cpp",
+            "g:\\unrealproject\\pluginsbuild_5_3\\plugins\\dreamcore\\source\\dreamtexturecore\\private\\dreamtexture.cpp",
+            "g:\\unrealproject\\pluginsbuild_5_3\\plugins\\dreamcore\\source\\dreamtexturecore\\public\\dreamtexture.h",
+            "g:\\unrealproject\\pluginsbuild_5_3\\plugins\\dreamcore\\source\\dreamtexturecore\\private\\dreamtexturecore.cpp",
+            "g:\\unrealproject\\pluginsbuild_5_3\\plugins\\dreamcore\\source\\dreamtexturecore\\public\\dreamtexturecore.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

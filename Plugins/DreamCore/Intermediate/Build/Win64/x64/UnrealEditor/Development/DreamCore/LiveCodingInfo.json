@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DreamCore.cpp.obj": [
+			"DAssetManager.gen.cpp.obj",
+			"DreamCore.init.gen.cpp.obj",
+			"DreamCoreBlueprintFunctionLib.gen.cpp.obj",
+			"DreamCoreStruct.gen.cpp.obj",
+			"DAssetManager.cpp.obj",
+			"DreamCoreStruct.cpp.obj",
+			"DreamCore.cpp.obj",
+			"DreamCoreBlueprintFunctionLib.cpp.obj"
+		]
+	}
+}

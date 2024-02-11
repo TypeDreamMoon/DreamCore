@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\source\\dreamgameplay\\private\\gamebase\\ngameinstance.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dreamgameplay\\definitions.dreamgameplay.h",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\source\\dreamgameplay\\public\\gamebase\\ngameinstance.h",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\source\\dreamgameplay\\public\\data\\dreamgameplayinterface.h",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamgameplay\\uht\\dreamgameplayinterface.generated.h",
+            "g:\\dreammoonstudio\\a2project\\starchapter\\unrealproject\\scgame\\plugins\\developer\\dreamcore\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamgameplay\\uht\\ngameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

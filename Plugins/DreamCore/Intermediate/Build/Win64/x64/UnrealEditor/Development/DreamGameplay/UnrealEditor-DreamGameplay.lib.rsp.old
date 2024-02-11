@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DreamGameplay.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"G:\DreamMoonStudio\A2Project\StarChapter\UnrealProject\SCGame\Plugins\Developer\DreamCore\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamGameplay\Module.DreamGameplay.cpp.obj"
+"G:\DreamMoonStudio\A2Project\StarChapter\UnrealProject\SCGame\Plugins\Developer\DreamCore\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamGameplay\InventoryCommon.cpp.obj"
+"G:\DreamMoonStudio\A2Project\StarChapter\UnrealProject\SCGame\Plugins\Developer\DreamCore\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamGameplay\InventoryComponent.cpp.obj"
+"G:\DreamMoonStudio\A2Project\StarChapter\UnrealProject\SCGame\Plugins\Developer\DreamCore\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamGameplay\ItemObject.cpp.obj"
+"G:\DreamMoonStudio\A2Project\StarChapter\UnrealProject\SCGame\Plugins\Developer\DreamCore\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamGameplay\TaskComponent.cpp.obj"
+"G:\DreamMoonStudio\A2Project\StarChapter\UnrealProject\SCGame\Plugins\Developer\DreamCore\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamGameplay\TaskObject.cpp.obj"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"G:\DreamMoonStudio\A2Project\StarChapter\UnrealProject\SCGame\Plugins\Developer\DreamCore\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamGameplay\UnrealEditor-DreamGameplay.lib"

@@ -1,0 +1,32 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DreamGameplay.cpp.obj": [
+			"DreamGameplay.init.gen.cpp.obj",
+			"DreamGameplayInterface.gen.cpp.obj",
+			"DreamGpCoreBlueprintFunctionLib.gen.cpp.obj",
+			"InventoryCommon.gen.cpp.obj",
+			"InventoryComponent.gen.cpp.obj",
+			"ItemObject.gen.cpp.obj",
+			"NCharacter.gen.cpp.obj",
+			"NGameInstance.gen.cpp.obj",
+			"NGameMode.gen.cpp.obj",
+			"TaskCommon.gen.cpp.obj",
+			"TaskComponent.gen.cpp.obj",
+			"TaskObject.gen.cpp.obj",
+			"TaskType.gen.cpp.obj",
+			"DreamGameplayInterface.cpp.obj",
+			"DreamGameplay.cpp.obj",
+			"DreamGpCoreBlueprintFunctionLib.cpp.obj",
+			"NCharacter.cpp.obj",
+			"NGameInstance.cpp.obj",
+			"NGameMode.cpp.obj",
+			"InventoryCommon.cpp.obj",
+			"InventoryComponent.cpp.obj",
+			"ItemObject.cpp.obj",
+			"TaskComponent.cpp.obj",
+			"TaskObject.cpp.obj",
+			"TaskType.cpp.obj"
+		]
+	}
+}

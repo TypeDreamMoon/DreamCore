@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DreamTextureCore.cpp.obj": [
+			"DreamTexCoreBlueprintFunctionLib.gen.cpp.obj",
+			"DreamTextureCore.init.gen.cpp.obj",
+			"DreamTexCoreBlueprintFunctionLib.cpp.obj",
+			"DreamTexture.cpp.obj",
+			"DreamTextureCore.cpp.obj"
+		]
+	}
+}

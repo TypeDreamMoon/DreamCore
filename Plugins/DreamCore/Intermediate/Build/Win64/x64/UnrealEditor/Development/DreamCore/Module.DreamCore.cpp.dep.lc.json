@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\unrealproject\\pluginsbuild_5_3\\plugins\\dreamcore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dreamcore\\module.dreamcore.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\unrealengine\\mooatoon-engine-5.3\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "g:\\unrealproject\\pluginsbuild_5_3\\plugins\\dreamcore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dreamcore\\definitions.dreamcore.h",
+            "g:\\unrealproject\\pluginsbuild_5_3\\plugins\\dreamcore\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamcore\\uht\\dreamcore.init.gen.cpp",
+            "g:\\unrealproject\\pluginsbuild_5_3\\plugins\\dreamcore\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamcore\\uht\\dreamcoreblueprintfunctionlib.gen.cpp",
+            "g:\\unrealproject\\pluginsbuild_5_3\\plugins\\dreamcore\\source\\dreamcore\\public\\dreamcoreblueprintfunctionlib.h",
+            "g:\\unrealproject\\pluginsbuild_5_3\\plugins\\dreamcore\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamcore\\uht\\dreamcoreblueprintfunctionlib.generated.h",
+            "g:\\unrealproject\\pluginsbuild_5_3\\plugins\\dreamcore\\source\\dreamcore\\private\\dreamcore.cpp",
+            "g:\\unrealproject\\pluginsbuild_5_3\\plugins\\dreamcore\\source\\dreamcore\\public\\dreamcore.h",
+            "g:\\unrealproject\\pluginsbuild_5_3\\plugins\\dreamcore\\source\\dreamcore\\private\\dreamcoreblueprintfunctionlib.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

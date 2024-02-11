@@ -1,0 +1,90 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "Data/DreamGameplayInterface.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef DREAMGAMEPLAY_DreamGameplayInterface_generated_h
+#error "DreamGameplayInterface.generated.h already included, missing '#pragma once' in DreamGameplayInterface.h"
+#endif
+#define DREAMGAMEPLAY_DreamGameplayInterface_generated_h
+
+#define FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_SPARSE_DATA
+#define FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	virtual void i_SetDebugMode_Implementation(bool NewMode) {}; \
+ \
+	DECLARE_FUNCTION(execi_SetDebugMode);
+
+
+#define FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_ACCESSORS
+#define FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_CALLBACK_WRAPPERS
+#define FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	DREAMGAMEPLAY_API UDreamGameplayInterface(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	DREAMGAMEPLAY_API UDreamGameplayInterface(UDreamGameplayInterface&&); \
+	DREAMGAMEPLAY_API UDreamGameplayInterface(const UDreamGameplayInterface&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(DREAMGAMEPLAY_API, UDreamGameplayInterface); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDreamGameplayInterface); \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UDreamGameplayInterface) \
+	DREAMGAMEPLAY_API virtual ~UDreamGameplayInterface();
+
+
+#define FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_GENERATED_UINTERFACE_BODY() \
+private: \
+	static void StaticRegisterNativesUDreamGameplayInterface(); \
+	friend struct Z_Construct_UClass_UDreamGameplayInterface_Statics; \
+public: \
+	DECLARE_CLASS(UDreamGameplayInterface, UInterface, COMPILED_IN_FLAGS(CLASS_Abstract | CLASS_Interface), CASTCLASS_None, TEXT("/Script/DreamGameplay"), DREAMGAMEPLAY_API) \
+	DECLARE_SERIALIZER(UDreamGameplayInterface)
+
+
+#define FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_GENERATED_BODY \
+	PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+	FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_GENERATED_UINTERFACE_BODY() \
+	FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_ENHANCED_CONSTRUCTORS \
+private: \
+	PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
+protected: \
+	virtual ~IDreamGameplayInterface() {} \
+public: \
+	typedef UDreamGameplayInterface UClassType; \
+	typedef IDreamGameplayInterface ThisClass; \
+	static void Execute_i_SetDebugMode(UObject* O, bool NewMode); \
+	virtual UObject* _getUObject() const { return nullptr; }
+
+
+#define FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_10_PROLOG
+#define FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_21_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_SPARSE_DATA \
+	FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_ACCESSORS \
+	FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_CALLBACK_WRAPPERS \
+	FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DREAMGAMEPLAY_API UClass* StaticClass<class UDreamGameplayInterface>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_DreamMoonStudio_A2Project_StarChapter_UnrealProject_SCGame_Plugins_Developer_DreamCore_Source_DreamGameplay_Public_Data_DreamGameplayInterface_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

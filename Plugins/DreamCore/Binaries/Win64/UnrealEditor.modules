@@ -1,0 +1,9 @@
+{
+	"BuildId": "d32ac11d-cd22-4bed-8fa1-2be47c76ac37",
+	"Modules": 
+	{
+		"DreamCore": "UnrealEditor-DreamCore.dll",
+		"DreamGameplay": "UnrealEditor-DreamGameplay.dll",
+		"DreamTextureCore": "UnrealEditor-DreamTextureCore.dll"
+	}
+}
